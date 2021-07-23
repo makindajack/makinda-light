@@ -1,0 +1,34 @@
+{
+  "name": "makinda-light",
+  "displayName": "Makinda Light",
+  "description": "Makinda Light Theme",
+  "version": "0.0.1",
+  "publisher": "makindajack",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/makindajack/makinda-light"
+  },
+  "keywords": [
+    "theme",
+    "light theme",
+    "makinda light",
+    "makindajack",
+    "jackson makinda",
+    "makinda light theme"
+  ],
+  "engines": {
+    "vscode": "^1.58.0"
+  },
+  "categories": [
+    "Themes"
+  ],
+  "contributes": {
+    "themes": [
+      {
+        "label": "Makinda Light",
+        "uiTheme": "vs",
+        "path": "./themes/Makinda Light-color-theme.json"
+      }
+    ]
+  }
+}
