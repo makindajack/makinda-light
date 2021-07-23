@@ -1,4 +1,4 @@
-![Title image](https://i.imgur.com/W9mBLt3.png)
+![Title image](https://i.imgur.com/KVVSNdc.png)
 
 <p align="center">
   <!-- marketplace version -->
