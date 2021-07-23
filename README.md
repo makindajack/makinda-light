@@ -3,7 +3,7 @@
 <p align="center">
   <!-- marketplace version -->
   <a href="https://marketplace.visualstudio.com/items?itemName=makindajack.makinda-light">
-    <img alt="marketplace version" src="https://img.shields.io/vscode-marketplace/v/makindajack.makinda-light.svg?maxAge=36&style=for-the-badge&labelColor=FCECE9&color=F0A694">
+    <img alt="marketplace version" src="https://img.shields.io/vscode-marketplace/v/makindajack.makinda-light.svg?maxAge=360&style=for-the-badge&labelColor=FCECE9&color=F0A694">
   </a>
   <!-- downloads -->
   <a href="https://marketplace.visualstudio.com/items?itemName=makindajack.makinda-light">
@@ -11,7 +11,7 @@
   </a>
   <!-- rating -->
   <a href="https://marketplace.visualstudio.com/items?itemName=makindajack.makinda-light">
-    <img alt="rating" src="https://img.shields.io/visual-studio-marketplace/stars/makindajack.makinda-light.svg?maxAge=86400&style=for-the-badge&labelColor=FCECE9&color=F0A694">
+    <img alt="rating" src="https://img.shields.io/visual-studio-marketplace/stars/makindajack.makinda-light.svg?maxAge=8640&style=for-the-badge&labelColor=FCECE9&color=F0A694">
   </a>
 </p>
 
