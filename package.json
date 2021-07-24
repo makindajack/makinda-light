@@ -1,12 +1,21 @@
 {
   "name": "makinda-light",
   "displayName": "Makinda Light",
-  "description": "Makinda Light Theme",
-  "version": "0.2.1",
+  "description": "A light brownish theme for VS Code",
+  "version": "0.2.2",
   "publisher": "makindajack",
+  "icon": "images/icon.png",
+  "author": {
+    "name": "Jackson Makinda",
+    "email": "jacksonmakinda@outlook.com"
+  },
   "repository": {
     "type": "git",
     "url": "https://github.com/makindajack/makinda-light"
+  },
+  "bugs": {
+    "url": "https://github.com/makindajack/makinda-light/issues",
+    "email": "jacksonmakinda@outlook.com"
   },
   "keywords": [
     "theme",
