@@ -1,14 +1,16 @@
 {
   "name": "makinda-light",
   "displayName": "Makinda Light",
-  "description": "A light orange-ish theme for VS Code",
-  "version": "0.2.3",
+  "description": "A premium light theme for VS Code with warm orange accents and excellent readability",
+  "version": "1.0.0",
   "publisher": "makindajack",
   "icon": "images/icon.png",
   "author": {
     "name": "Jackson Makinda",
     "email": "jacksonmakinda@outlook.com"
   },
+  "license": "MIT",
+  "homepage": "https://github.com/makindajack/makinda-light#readme",
   "repository": {
     "type": "git",
     "url": "https://github.com/makindajack/makinda-light"
@@ -19,18 +21,27 @@
   },
   "keywords": [
     "theme",
+    "light",
     "light theme",
+    "orange",
+    "makinda",
     "makinda light",
     "makindajack",
     "jackson makinda",
-    "makinda light theme"
+    "color theme",
+    "syntax highlighting",
+    "editor theme"
   ],
   "engines": {
-    "vscode": "^1.58.0"
+    "vscode": "^1.74.0"
   },
   "categories": [
     "Themes"
   ],
+  "galleryBanner": {
+    "color": "#ffffff",
+    "theme": "light"
+  },
   "contributes": {
     "themes": [
       {
@@ -39,5 +50,10 @@
         "path": "./themes/Makinda Light-color-theme.json"
       }
     ]
+  },
+  "scripts": {
+    "vscode:prepublish": "echo 'Ready for publishing'",
+    "package": "vsce package",
+    "publish": "vsce publish"
   }
 }
